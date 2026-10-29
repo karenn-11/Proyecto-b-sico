@@ -1,0 +1,62 @@
+body {
+    background-color: #f8fafc;
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-color: #30be10;
+    padding: 10px;
+}
+header img {
+    float: left;
+    margin: 5px;
+}
+header h1 {
+    color: #172554;
+}
+header p {
+    color: #172554;
+}
+nav {
+    margin: 15px;
+}
+nav a {
+    color: #172554;
+    margin: 10px;
+}
+h2 {
+    color: #172554;
+}
+.contacto {
+    background-color: #f8fafc;
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+}
+input {
+    border:#30be10 solid 1px;
+    width: 80%;
+    padding: 8px;
+}
+textarea {
+    border:#30be10 solid 1px;
+    width: 80%;
+    padding: 8px;
+}
+button {
+    border:#30be10 solid 1px;
+    color: #172554;
+    padding: 10px 20px;
+}
+footer {
+    background-color: #30be10;
+    padding: 5px;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+footer a {
+    color: #172554;
+}
+
